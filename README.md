@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/IEk1upv.png">
+<img src="https://imgur.com/jOAqOQ9.png">
 
 
 ## Hi, I'm <a href="https://jesus-qc.es" target="_blank">Jesus-QC</a>!
