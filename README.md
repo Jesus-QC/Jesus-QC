@@ -2,7 +2,7 @@
 
 
 ## Hi, I'm <a href="https://jesus-qc.es" target="_blank">Jesus-QC</a>!
-(I don't know how why, but you're reading this so take this hot coffee ☕)
+(I don't know how why, but you're reading this so take a hot coffee ☕)
 
 
 
