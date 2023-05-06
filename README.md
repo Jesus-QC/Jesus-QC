@@ -1,5 +1,10 @@
 ## Hi, I'm <a href="https://jesusqc.es" target="_blank">Jesus-QC</a>!
-(Take a hot coffee ☕)
+
+<div style="width: 100%;">
+  <a href="https://github.com/Jesus-QC/Jesus-QC/blame/main/icon.svg">
+    <img src="icon.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
+</div>
 
 ---
 
