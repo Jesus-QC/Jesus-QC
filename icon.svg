@@ -211,10 +211,10 @@
         </h1>
         <section class='items'>
           <ul>
-            <li>Student</li>
+            <li>Computer Science Student</li>
           </ul>
           <ul>
-            <li>at <a href="https://jesusqc.es">Spain</a></li>
+            <li>at <a href="https://jesusqc.es">Madrid, Spain</a></li>
           </ul>
           <ul>
             <li><a href="mailto:contact@jesusqc.es" role="button"><span class='hi'>👋</span></a></li>
